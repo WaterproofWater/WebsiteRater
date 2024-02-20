@@ -11,7 +11,7 @@
 
 ## <sub> Credits: </sub>
   - **Andy Tran (me):** Created the back-end tests for the image alt text, color contrast ratio algorithm, and the header, body, and footer section rating.
-  - **Rohan Nair:):** Created much of the front-end as well as the remaining 2 tests: the load speed, and the responsive design tests. 
+  - **Rohan Nair:** Created much of the front-end as well as the remaining 2 tests: the load speed, and the responsive design tests. 
 
 
 ## <sub> Uses: </sub>
