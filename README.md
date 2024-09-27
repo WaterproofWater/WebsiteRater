@@ -10,8 +10,8 @@
   5. To run the WebsiteRater site, run "streamlit run app.py" (without "") in the terminal.
 
 ## <sub> Credits: </sub>
-  - **Andy Tran (me):** Created the back-end tests for the image alt text, color contrast ratio algorithm, and the header, body, and footer section rating.
-  - **Rohan Nair:** Created much of the front-end as well as the remaining 2 tests: the load speed, and the responsive design tests. 
+  - **Andy Tran (me):** Created most of the back-end tests including: images' alt text test, color contrast ratio algorithm, and the website's header, body, and footer section font size rating.
+  - **Rohan Nair:** Created much of the front-end and the remaining 2 tests: the load speed and the responsive design tests. 
 
 
 ## <sub> Uses: </sub>
